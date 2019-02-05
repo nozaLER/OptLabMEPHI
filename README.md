@@ -41,4 +41,3 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 ## 4. List of publications 
 
 
-
