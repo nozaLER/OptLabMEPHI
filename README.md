@@ -5,7 +5,7 @@
 ![МИФИ][image1]
 ![Лаплаз][image2]
 
-[image1]: https://4science.ru/images/44a69937831f4ffda67a38ef82fa6a06/logo_mifi.jpg
+[image1]: https://yt3.ggpht.com/a-/AN66SAwKtU4ud-6CjJz3tMnI_WTnpbMJyY-TO0RA1A=s240-mo-c-c0xffffffff-rj-k-no
 [image2]: http://wiki.mephist.ru/images/thumb/b/b3/Laplas.jpg/180px-Laplas.jpg
 
 ## Description :uk: 
