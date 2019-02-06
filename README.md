@@ -39,6 +39,7 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 * [Борн М.Вольф Э. Основы Оптики](https://github.com/nozaLER/OptLabMEPHI/raw/master/книги/Борн%20М.%20Вольф%20Э.%20Основы%20оптики%20(1973).pdf) Подтянуть понимание оптики
 * [Дж.Гудмен Введение в Фурье оптику](https://github.com/nozaLER/OptLabMEPHI/raw/master/книги/%5BGudmen_D.%5D_Vvedenie_v_Fure-optiku(BookFi).pdf) В начале расписанны фурье преобразование и как сними работать 
 * [В. К. Егоров, И. Г. Зубарев, Р. С. Стариков Лабораторный практикум ФИЗИЧЕСКИЕ ОСНОВЫ МОДУЛЯЦИИ ЛАЗЕРНОГО ИЗЛУЧЕНИЯ](https://github.com/nozaLER/OptLabMEPHI/raw/master/книги/Егоров%20Лабораторный%20практикум%20Физические%20основы%20модуляции%20лазерного%20излучения%202008.pdf) Очень полезная книжка как сейчас так и в будущем нужно почитать до 100 страницы 
+* Салех Б., Тейх М. Оптика и фотоника. Принципы и применения. [Том 1](http://bookfi.net/book/2229694) [Том 2](http://torrents45.xyz/torrent/856173/)
 ## 4. List of publications 
 
 
