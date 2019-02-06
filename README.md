@@ -24,6 +24,12 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 ## 1. Scientific areas
 ## 2. Sctructure
 ### People
+#### Lab Head
+![Евтихиев][image3]: http://www.ng.ru/upload/resize_cache/iblock/6af/450_320_1/208397.jpg
+Nikolay N. Evtikhiev [more](https://www.researchgate.net/profile/Nikolay_Evtikhiev)
+[image3]:
+#### Lab members
+
 ## 3. For students <a name="abcd"></a>
 Для поступление на научную практику студенту необходимо пройти собеседования.
 
