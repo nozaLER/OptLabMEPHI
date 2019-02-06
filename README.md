@@ -23,7 +23,7 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 4. List of publications  
 ## 1. Scientific areas
 ## 2. Sctructure
-### </center>People</center>
+### ->People<-
 ## 3. For students <a name="abcd"></a>
 Для поступление на научную практику студенту необходимо пройти собеседования.
 
