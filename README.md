@@ -21,8 +21,21 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
     
 3. [For students](#abcd)
 4. List of publications  
-## 1. Scientific areas
+## 1. Scientific interests
 ## 2. Sctructure
+#### Lab head
+![НиколайНиколаевич](https://github.com/nozaLER/OptLabMEPHI/blob/master/картинки/208397.jpg?raw=true)  
+Nikolay N. Evtikhiev [read more](https://www.researchgate.net/profile/Nikolay_Evtikhiev)
+#### Lab members
+Rostislav S.Starikov [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
+Evgenii Yu.Zlokazov  [read more](://www.researchgate.net/profile/Evgenii_Zlokazov)  
+Pavek A.Cheremkhin   [read more](Phttps://www.researchgate.net/profile/Pavel_Cheremkhin])  
+Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Krasnov)
+
+
+
+
+
 ## 3. For students <a name="abcd"></a>
 Для поступление на научную практику студенту необходимо пройти собеседования.
 
