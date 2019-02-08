@@ -6,7 +6,7 @@ Cтраница находится в разработке
 ![МИФИ][image1]
 ![Лаплаз][image2]
 
-[image1]: https://yt3.ggpht.com/a-/AN66SAwKtU4ud-6CjJz3tMnI_WTnpbMJyY-TO0RA1A=s240-mo-c-c0xffffffff-rj-k-no
+[image1]: https://github.com/nozaLER/OptLabMEPHI/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/gQbx8ilT7DU.jpg?raw=true
 [image2]: http://wiki.mephist.ru/images/thumb/b/b3/Laplas.jpg/180px-Laplas.jpg
 
 ## Description :uk: 
