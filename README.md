@@ -20,7 +20,7 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 2. Sctructure __(в разработке)__
     
 3. [For students](#abcd)
-4. List of publications  
+4. List of publications     
 ## 1. Scientific interests
 ## 2. Sctructure
 #### Lab head
@@ -29,7 +29,7 @@ Nikolay N. Evtikhiev [read more](https://www.researchgate.net/profile/Nikolay_Ev
 #### Lab members
 Rostislav S.Starikov [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
 Evgenii Yu.Zlokazov  [read more](https://www.researchgate.net/profile/Evgenii_Zlokazov)  
-Pavek A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin])  
+Pavel A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin])  
 Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Krasnov)
 
 
