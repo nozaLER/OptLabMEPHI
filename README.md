@@ -9,7 +9,7 @@ Cтраница находится в разработке
 [image1]: https://github.com/nozaLER/OptLabMEPHI/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/gQbx8ilT7DU.jpg?raw=true
 [image2]: http://wiki.mephist.ru/images/thumb/b/b3/Laplas.jpg/180px-Laplas.jpg
 
-## Description :uk: 
+## Description  
 
 <font size="+3">This repository is dedicated to the laboratory of optical information processing. 
 department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear University  MEPHI  
