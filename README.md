@@ -54,5 +54,9 @@ Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Kra
 * [В. К. Егоров, И. Г. Зубарев, Р. С. Стариков Лабораторный практикум ФИЗИЧЕСКИЕ ОСНОВЫ МОДУЛЯЦИИ ЛАЗЕРНОГО ИЗЛУЧЕНИЯ](https://github.com/nozaLER/OptLabMEPHI/raw/master/книги/Егоров%20Лабораторный%20практикум%20Физические%20основы%20модуляции%20лазерного%20излучения%202008.pdf) Очень полезная книжка, как сейчас так и в будущем, нужно почитать до 100 страницы 
 * Салех Б., Тейх М. Оптика и фотоника. Принципы и применения. [Том 1](http://bookfi.net/book/2229694) [Том 2](http://torrents45.xyz/torrent/856173/)
 ## 4. List of publications 
+## 5. List of devices
+1. Oscilloscope Keysight DSAZ334A [read more](https://www.keysight.com/en/pdx-x202058-pn-DSAZ334A/infiniium-oscilloscope-33-ghz?nid=-32529.1150269.00&cc=US&lc=eng)
+
+
 
 
