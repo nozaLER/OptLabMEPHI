@@ -27,8 +27,8 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 ![НиколайНиколаевич](https://github.com/nozaLER/OptLabMEPHI/blob/master/картинки/208397.jpg?raw=true)  
 Nikolay N. Evtikhiev [read more](https://www.researchgate.net/profile/Nikolay_Evtikhiev)
 #### Lab members
-Rostislav S.Starikov [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
-Evgenii Yu.Zlokazov  [read more](https://www.researchgate.net/profile/Evgenii_Zlokazov)  
+Rostislav S.Starikov _professor(full)_ [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
+Evgenii Yu.Zlokazov  _PhD_[read more](https://www.researchgate.net/profile/Evgenii_Zlokazov)  
 Pavel A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin])  
 Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Krasnov)
 
