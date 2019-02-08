@@ -12,7 +12,7 @@ Cтраница находится в разработке
 ## Description  
 
 <font size="+3">This repository is dedicated to the laboratory of optical information processing. 
-department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear University  MEPHI  
+Department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear University  MEPHI.  
 </font>
 
 ## Table of contents
