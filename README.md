@@ -29,7 +29,7 @@ Nikolay N. Evtikhiev [read more](https://www.researchgate.net/profile/Nikolay_Ev
 #### Lab members
 Rostislav S.Starikov _professor(full)_ [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
 Evgenii Yu.Zlokazov  _PhD_[read more](https://www.researchgate.net/profile/Evgenii_Zlokazov)  
-Pavel A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin])  
+Pavel A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin)  
 Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Krasnov)
 
 
