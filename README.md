@@ -6,12 +6,12 @@ Cтраница находится в разработке
 ![МИФИ][image1]
 ![Лаплаз][image2]
 
-[image1]: https://yt3.ggpht.com/a-/AN66SAwKtU4ud-6CjJz3tMnI_WTnpbMJyY-TO0RA1A=s240-mo-c-c0xffffffff-rj-k-no
+[image1]: https://github.com/nozaLER/OptLabMEPHI/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/gQbx8ilT7DU.jpg?raw=true
 [image2]: http://wiki.mephist.ru/images/thumb/b/b3/Laplas.jpg/180px-Laplas.jpg
 
-## Description :uk: 
+## Description  
 
-<font size="+2">This repository is dedicated to the laboratory of optical information processing. 
+<font size="+3">This repository is dedicated to the laboratory of optical information processing. 
 department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear University  MEPHI  
 </font>
 
@@ -20,16 +20,16 @@ department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear Unive
 2. Sctructure __(в разработке)__
     
 3. [For students](#abcd)
-4. List of publications  
+4. List of publications     
 ## 1. Scientific interests
 ## 2. Sctructure
 #### Lab head
 ![НиколайНиколаевич](https://github.com/nozaLER/OptLabMEPHI/blob/master/картинки/208397.jpg?raw=true)  
 Nikolay N. Evtikhiev [read more](https://www.researchgate.net/profile/Nikolay_Evtikhiev)
 #### Lab members
-Rostislav S.Starikov [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
-Evgenii Yu.Zlokazov  [read more](https://www.researchgate.net/profile/Evgenii_Zlokazov)  
-Pavek A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin])  
+Rostislav S.Starikov _professor(full)_ [read more](https://www.researchgate.net/profile/Rostislav_Starikov)  
+Evgenii Yu.Zlokazov  _PhD_[read more](https://www.researchgate.net/profile/Evgenii_Zlokazov)  
+Pavel A.Cheremkhin   [read more](https://www.researchgate.net/profile/Pavel_Cheremkhin)  
 Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Krasnov)
 
 
