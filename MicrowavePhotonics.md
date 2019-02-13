@@ -22,3 +22,15 @@
   [read more](http://www.generalphotonics.com/index.php/product/mdl-002-delay-line/)
 
 </details>
+
+<details>
+  
+  <summary>Intensity Modulator Optilab LMB-20</summary>
+
+  ![alt text](http://legacy.optilab.com/images/products_gallery/LTB-22.png)
+
+  [Data sheet](http://legacy.optilab.com/images/datasheets/LMB-20_06-06-2016_v1.pdf)
+
+  [read more](http://legacy.optilab.com/products/category/Laser_Modulator/20_GHz_Lightwave_Modulator_with_Bias_Control/)
+
+</details>
