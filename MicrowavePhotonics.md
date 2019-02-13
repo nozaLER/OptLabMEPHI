@@ -46,3 +46,15 @@
   [read more](http://advantex.ru/joom/content/view/91/76/)
 
 </details>
+
+<details>
+  
+  <summary>Polarization Controller Thorlabs FPC562</summary>
+
+  ![alt text](http://azimp.ru/upload/iblock/f8d/04cfa113e9ec6a075aea038d66e88e6f.jpg)
+
+  [Manual](https://www.thorlabs.de/drawings/321da8dd71af207f-08BC12FD-F32D-E86B-4078E6A45CAFAACF/FPC562-Manual.pdf)
+
+  [read more](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=343&pn=FPC562)
+
+</details>
