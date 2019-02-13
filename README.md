@@ -12,7 +12,7 @@ Cтраница находится в разработке
 ## Description  
 
 <font size="+3">This repository is dedicated to the laboratory of optical information processing. 
-Department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear University  MEPHI.  
+department [__LaPlas__](https://laplas.mephi.ru) National Research Nuclear University  MEPHI  
 </font>
 
 ## Table of contents
@@ -37,7 +37,7 @@ Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Kra
 
 
 
-## 3. For students <a name="abcd"></a>
+## 3. For students(Информация по разделу обновляется) <a name="abcd"></a>
 Для поступление на научную практику студенту необходимо пройти собеседование.
 
 Собеседование состоит из двух этапов, устного и письменного. Для успешного прохождения устной части, необходимо набрать проходной балл по письменной части.
@@ -47,6 +47,10 @@ Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Kra
 3. Задачи по рядам и интегральным преобразованиям Фурье.
 4. Вопросы по оптике (оптические устройства, дифракция, интерференция – общее представление)
 5. Вопросы на общее представления о Функциональном анализе, вариационном и операционом исчислении
+### <center>Устный этап</center>
+Для успешного завершения собеседования необходимо пройти устное собеседование с одним из координаторов направлений
+  
+1.[Корреляционного распознавания образов](https://github.com/nozaLER/OptLabMEPHI/blob/master/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D1%8B/infoforStudentFlitr.md)
 
 
 Книги для подготовки:
@@ -55,8 +59,4 @@ Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Kra
 * [В. К. Егоров, И. Г. Зубарев, Р. С. Стариков Лабораторный практикум ФИЗИЧЕСКИЕ ОСНОВЫ МОДУЛЯЦИИ ЛАЗЕРНОГО ИЗЛУЧЕНИЯ](https://github.com/nozaLER/OptLabMEPHI/raw/master/книги/Егоров%20Лабораторный%20практикум%20Физические%20основы%20модуляции%20лазерного%20излучения%202008.pdf) Очень полезная книжка, как сейчас так и в будущем, нужно почитать до 100 страницы 
 * Салех Б., Тейх М. Оптика и фотоника. Принципы и применения. [Том 1](http://bookfi.net/book/2229694) [Том 2](http://torrents45.xyz/torrent/856173/)
 ## 4. List of publications 
-
-
-
-
 
