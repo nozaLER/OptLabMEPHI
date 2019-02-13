@@ -4,6 +4,8 @@
   <summary>Oscilloscope Keysight DSAZ334A</summary>
 
   ![alt text](https://s7.images.keysight.com/is/image/Keysight/PROD-2391634-01?$ProdMainPreset$)
+  
+  [Data sheet](https://www.altoo.dk/cosmoshop/default/artikelpdf/DSAZ334A_en.pdf)
 
   [read more](https://www.keysight.com/en/pdx-x202058-pn-DSAZ334A/infiniium-oscilloscope-33-ghz?cc=US&lc=eng)
 
