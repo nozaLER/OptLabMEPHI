@@ -55,6 +55,8 @@ Vitaly V. Krasnov    [read more](https://www.researchgate.net/profile/Vitaly_Kra
 
 3.[Цифровые Камеры](https://github.com/nozaLER/OptLabMEPHI/blob/master/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D1%8B/InforStudentsCamers.md)
 
+4.[Радиофотоника](https://github.com/nozaLER/OptLabMEPHI/blob/master/научные%20направления/фильтры/Infostrudentsmicrowave.md)
+
 
 Книги для подготовки:
 * [Борн М.Вольф Э. Основы Оптики](https://github.com/nozaLER/OptLabMEPHI/raw/master/книги/Борн%20М.%20Вольф%20Э.%20Основы%20оптики%20(1973).pdf) Подтянуть понимание оптики
